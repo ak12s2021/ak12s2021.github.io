@@ -6,6 +6,7 @@ tag:
  - 网站搭建
  - blog
 recommend: 3
+sticky: 3
 ---
 
 # 基于个人经验的Blog/网站搭建
