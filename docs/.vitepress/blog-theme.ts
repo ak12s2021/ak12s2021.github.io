@@ -46,16 +46,16 @@ const blogTheme = getThemeConfig({
   themeColor: 'el-blue',
 
   // 文章默认作者
-  author: '粥里有勺糖',
+  author: 'TTK567',
 
   // 友链
   friend: [
     {
-      nickname: '粥里有勺糖',
-      des: '你的指尖用于改变世界的力量',
+      nickname: '小猫船长',
+      des: '航海日记',
       avatar:
-        'https://img.cdn.sugarat.top/mdImg/MTY3NDk5NTE2NzAzMA==674995167030',
-      url: 'https://sugarat.top',
+        'https://cbt567.top/wp-content/uploads/2024/09/WechatIMG144.jpg',
+      url: 'https://cbt567.top',
     },
     {
       nickname: 'Vitepress',
@@ -70,10 +70,10 @@ const blogTheme = getThemeConfig({
   popover: {
     title: '公告',
     body: [
-      { type: 'text', content: '👇公众号👇---👇 微信 👇' },
+      { type: 'text', content: '👇 微信 👇---👇 QQ 👇' },
       {
         type: 'image',
-        src: 'https://img.cdn.sugarat.top/mdImg/MTYxNTAxODc2NTIxMA==615018765210~fmt.webp'
+        src: 'https://cbt567.oss-rg-china-mainland.aliyuncs.com/img/202507111347913.png'
       },
       {
         type: 'text',
@@ -87,15 +87,15 @@ const blogTheme = getThemeConfig({
       {
         type: 'button',
         content: '作者博客',
-        link: 'https://sugarat.top'
+        link: 'https://cbt567.top'
       },
       {
         type: 'button',
-        content: '加群交流',
+        content: '猫咪球',
         props: {
           type: 'success'
         },
-        link: 'https://theme.sugarat.top/group.html',
+        link: '',
       }
     ],
     duration: 0
